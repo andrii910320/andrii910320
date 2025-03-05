@@ -7,13 +7,7 @@
   AWS ☁️ | Docker 🐳
 </p>
 
----
 
-### ⚡ About Me  
-🔹 Passionate about cutting-edge web technologies  
-🔹 Building scalable & high-performance applications  
-
----
 
 ### 🛠️ Tech Stack  
 <p align="center">
