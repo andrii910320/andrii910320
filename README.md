@@ -20,16 +20,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,nodejs,nestjs,postgres,mongodb,aws,docker,git,github,postman,webpack,gulp" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndriiRyzhuk&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndriiRyzhuk&theme=tokyonight" width="400">
-</p>
-
----
-
 ### 📡 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/andrii-ryzhuk-0210b6256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
