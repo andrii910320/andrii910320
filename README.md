@@ -1,12 +1,6 @@
 
 <h2 align="center">👨‍💻 Andrii Ryzhuk – Full-stack Developer 🚀</h2>
 
-<p align="center">
-  HTML/CSS 💻 | React JS ⚛️ | Redux 🔄 | JavaScript/TypeScript 🌐 | Sass 🎀 | Webpack/Gulp 🛠️ <br>
-  Node.js 🚀 | PostgreSQL 🗃️ | MongoDB 📁 | GitHub 📚 | Postman 📬 | Next JS ⏩ | Nest JS 🐦 <br>
-  AWS ☁️ | Docker 🐳
-</p>
-
 
 
 ### 🛠️ Tech Stack  
