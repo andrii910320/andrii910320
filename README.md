@@ -1,9 +1,5 @@
 <h1 align="center">🚀 Welcome to my GitHub Universe! 🚀</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="800">
-</p>
-
 <h2 align="center">👨‍💻 Andrii Ryzhuk – Full-stack Developer 🚀</h2>
 
 <p align="center">
@@ -17,7 +13,6 @@
 ### ⚡ About Me  
 🔹 Passionate about cutting-edge web technologies  
 🔹 Building scalable & high-performance applications  
-🔹 Experimenting with futuristic UI/UX concepts  
 
 ---
 
