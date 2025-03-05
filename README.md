@@ -1,4 +1,3 @@
-<h1 align="center">🚀 Welcome to my GitHub Universe! 🚀</h1>
 
 <h2 align="center">👨‍💻 Andrii Ryzhuk – Full-stack Developer 🚀</h2>
 
@@ -33,9 +32,8 @@
 
 ### 📡 Connect with me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/andrii-ryzhuk-0210b6256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:andrii.ryzhuk98@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail"></a>
 </p>
 
 ---
