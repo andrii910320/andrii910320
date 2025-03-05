@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&color=00FFFF&center=true&width=500&lines=Coding+the+Future...;Welcome+to+My+Digital+Space!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&color=00FFFF&center=true&width=500&lines=Go+where+the+future+is+going.;" />
 </p>
