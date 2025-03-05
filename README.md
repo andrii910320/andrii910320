@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">🚀 Welcome to my GitHub Universe! 🚀</h1>
 
-<!--
-**andrii910320/andrii910320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="800">
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">👨‍💻 Andrii Ryzhuk – Full-stack Developer 🚀</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  HTML/CSS 💻 | React JS ⚛️ | Redux 🔄 | JavaScript/TypeScript 🌐 | Sass 🎀 | Webpack/Gulp 🛠️ <br>
+  Node.js 🚀 | PostgreSQL 🗃️ | MongoDB 📁 | GitHub 📚 | Postman 📬 | Next JS ⏩ | Nest JS 🐦 <br>
+  AWS ☁️ | Docker 🐳
+</p>
+
+---
+
+### ⚡ About Me  
+🔹 Passionate about cutting-edge web technologies  
+🔹 Building scalable & high-performance applications  
+🔹 Experimenting with futuristic UI/UX concepts  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,nodejs,nestjs,postgres,mongodb,aws,docker,git,github,postman,webpack,gulp" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndriiRyzhuk&show_icons=true&theme=tokyonight" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndriiRyzhuk&theme=tokyonight" width="400">
+</p>
+
+---
+
+### 📡 Connect with me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail"></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&color=00FFFF&center=true&width=500&lines=Coding+the+Future...;Welcome+to+My+Digital+Space!" />
+</p>
